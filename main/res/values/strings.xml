@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">homework2</string>
+    <string name="title_activity_student_detail">StudentDetailActivity</string>
+    <string name="appbar_scrolling_view_behavior" />
 </resources>
